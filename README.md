@@ -25,8 +25,6 @@ O gráfico demonstra visualmente o comportamento da carga do capacitor, ao longo
 
 ## Código Utilizado
 
-O código abaixo foi carregado no Arduino. Sua função é alimentar o circuito RC e, simultaneamente, ler a tensão no capacitor através de uma porta analógica (A0). Os dados de Tempo (ms) e Tensão (V) são enviados para o Monitor Serial.
-
 ```c
 int pinoNoRC=0; 
 int valorLido = 0;
