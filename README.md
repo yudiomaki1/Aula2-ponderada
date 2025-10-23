@@ -10,9 +10,9 @@ O objetivo deste projeto é montar um protótipo de um circuito RC simples, util
 
 ## Protótipo (Circuito)
 
-A montagem do circuito foi realizada na plataforma Tinkercad. O circuito é composto por um Arduino Uno, um resistor, um capacitor e jumpers.
+A montagem do circuito foi realizada na plataforma Tinkercad. O circuito é composto por um Arduino Uno, resistores, um capacitor, multímetro e jumpers.
 
-<img src="prototipo.png">
+<img src="prototipoFinal.png">
 
 ---
 ## Gráfico da Curva de Carga
