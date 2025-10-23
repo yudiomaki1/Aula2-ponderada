@@ -46,3 +46,6 @@ void loop() {
 	delay(400); 
 }
 
+```
+
+Acesse o simulador do Tinkercad pelo link: [Simulador Tinkercad](https://www.tinkercad.com/things/eVrvffXmuLE-ponderada-aula-2?sharecode=smAIMeI8uWUv6tmpzjMflQuNUlRH74ibOA3my9oyX8g)
